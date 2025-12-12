@@ -31,6 +31,15 @@ Project ini dibangun menggunakan arsitektur Modern Monolith untuk performa dan *
 * **Database:** MySQL / MariaDB
 * **Package Manager:** Composer (PHP) & NPM (Node)
 
+## ⚙️ Persyaratan Sistem (Prerequisites)
+
+Sebelum memulai, pastikan environment lokal Anda memenuhi syarat berikut:
+
+* PHP >= 8.2
+* Composer
+* Node.js & NPM (LTS Version recommended)
+* MySQL Database
+
 ## 🚀 Cara Menjalankan (Installation)
 
 Ikuti langkah-langkah ini untuk menjalankan project di local environment:
