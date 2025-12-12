@@ -20,14 +20,16 @@ Proyek ini dikembangkan dan dikelola oleh **M-One Solution Software House**.
 * **Interactive Map:** Integrasi peta untuk navigasi mudah ke lokasi tujuan.
 * *(Tambahkan fitur teknis lain di sini, misal: User Reviews, Merchant Dashboard, dll)*
 
-## 🛠 Teknologi (Tech Stack)
+## 🛠 Tech Stack
 
-*(Hapus atau sesuaikan bagian ini sesuai stack asli yang kalian gunakan)*
+Project ini dibangun menggunakan arsitektur Modern Monolith untuk performa dan *developer experience* yang optimal.
 
-* **Frontend:** [Vue.js / React / Blade]
-* **Backend:** [Laravel / Node.js]
-* **Database:** [MySQL / PostgreSQL]
-* **Tools:** [Figma, Docker, Postman]
+* **Backend Framework:** Laravel 12
+* **Frontend Framework:** React.js
+* **Fullstack Adapter:** Inertia.js (Server-driven SPA)
+* **Styling:** Tailwind CSS
+* **Database:** MySQL / MariaDB
+* **Package Manager:** Composer (PHP) & NPM (Node)
 
 ## 🚀 Cara Menjalankan (Installation)
 
